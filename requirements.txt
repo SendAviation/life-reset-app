@@ -1,4 +1,0 @@
-streamlit==1.38.0
-pandas==2.2.2
-requests==2.31.0
-twilio==9.2.3
